@@ -19,7 +19,7 @@ UniSwap Trading Pair: TBA
 
 Liquidity Locked Proof: TBA
 
-All this TBA will be ann on ou r telegram channel
+All this TBA will be ann on our telegram channel
 
 Special Programs
 WLT — ARENA Rewards Program**
