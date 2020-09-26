@@ -55,17 +55,17 @@ WLT Earn from Training
 
 What is WLT from Training?
 
-When you train ARMY ( Army, Legion , Heroes ) u can sell them again for WLT. Every single sale of those ARMY which return to Barrack it will be annaounced.
+When you train ARMY ( Warrior, Knight, Legend ) u can sell them again for WLT. Every single sale of those ARMY which return to Barrack it will be announced.
 It will be displayed on our homepage, and it will be basic for ARENA later.
 
 
 How much ARMY cost?
 
-Army will be on rate 1.15 X WLT
+Warrior will be on rate 1 WLT
 
-Legion will be on rate 1.25 X WLT
+Knight will be on rate 5 Warrior
 
-Heroes will be on rate 1.5 x WLT
+Legend will be on rate 50 Knight
 
 
 Terms & Conditions
