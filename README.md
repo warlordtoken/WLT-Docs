@@ -51,8 +51,11 @@ It will be displayed on our homepage, and it will be basic for ARENA later.
 our passive income.
 
 How much ARMY cost?
+
 Army will be on rate 1.15 X WLT
+
 Legion will be on rate 1.25 X WLT
+
 Heroes will be on rate 1.5 x WLT
 
 
