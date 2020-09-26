@@ -58,7 +58,7 @@ Heroes will be on rate 1.5 x WLT
 
 Terms & Conditions
 Users will be able to withdraw their funds at any time with no delay.
-Rewards are calculated and distributed weekly on every Sunday to user wallets between 7 PM and 8PM (UTC)
+
 Disclaimer
 WLT Token is an experimental token. Do Your Own Research (DYOR) before investing in this venture, as Crypto-currencies are subject to high market risk and volatility. You should only invest the amount in WLT which If you lose, won’t affect your long-term survival in the market. Many factors outside of the control of WLT Token will affect the market price. Extreme changes in price may occur at any time, resulting in a potential loss of value, complete or partial loss of purchasing power, and difficulty or a complete inability to sell or exchange your digital currency.
 
