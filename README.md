@@ -8,7 +8,7 @@ Source of inspirations
 Tulips.farm
 
 Contract Addresses:
-WLT Token: TBA
+WLT Token: https://etherscan.io/address/0xb7bc7b0a32455f7e7a924f832ca4f0a0ac3b6b88
 
 Locked WLT: TBA
 
