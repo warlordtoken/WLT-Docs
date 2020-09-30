@@ -4,6 +4,9 @@ Documentation with initial web interface of WarlordToken
 Intro of WarlordToken
 WarLordToken (WLT) is a Governance token. Peebles who stake WLT can vote for potential product upgrades, releases, and parameter fixes.
 
+Source of inspirations 
+Tulips.farm
+
 Contract Addresses:
 WLT Token: TBA
 
@@ -46,8 +49,6 @@ WLT vaults do following things:
 
 - Provides liquidity
 
-- Lending and Borrowing at the best possible rates
-
 - Manages collateral at a safe level
 
 
@@ -65,7 +66,7 @@ Warrior will be on rate 1 WLT
 
 Knight will be on rate 5 Warrior
 
-Legend will be on rate 50 Knight
+Legend will be on rate 25 Knight
 
 
 Terms & Conditions
